@@ -3,3 +3,4 @@ opencv-python==4.9.0.80
 mediapipe
 numpy==1.26.4
 deepface==0.0.82
+scipy
